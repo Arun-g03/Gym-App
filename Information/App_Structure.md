@@ -3,6 +3,7 @@
 ## Project Structure
 
 gym_management_app/ 
+
 ├── database/ │ 
 ├── db_setup.py (Handles SQLite database creation and table setup) │ 
 ├── db_operations.py (Handles CRUD operations for users, classes, subscriptions, trainers, etc.) │ 
