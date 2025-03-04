@@ -1,6 +1,6 @@
 # Gym-App
 
-## This is the Start of the Gym App for the Agile Software Development Project
+## This is a Gym App implementation for the Agile Software Development Project
 
 
 
