@@ -5,11 +5,11 @@
 ### (a) Key Concepts of Agile Software Development (500 words)
 In this section, you need to explain the core principles and concepts of Agile software development. Here are the core parts to include:
 
-- **Introduction to Agile**: Briefly introduce Agile as a methodology that emphasizes flexibility, collaboration, customer feedback, and rapid delivery.
+- **Introduction to Agile**: Briefly introduce Agile as a methodology that emphasises flexibility, collaboration, customer feedback, and rapid delivery.
 - **The Agile Manifesto**: Discuss the values and principles behind Agile (individuals and interactions, working software, customer collaboration, and responding to change).
 - **Agile Frameworks**: Mention key frameworks like Scrum, Kanban, and Extreme Programming (XP), explaining their roles in implementing Agile.
 - **Iterative Development**: Highlight how Agile focuses on delivering software in short, iterative cycles (sprints), with frequent reviews and feedback.
-- **Collaboration and Communication**: Emphasize the importance of teamwork, both within the development team and with stakeholders.
+- **Collaboration and Communication**: Emphasise the importance of teamwork, both within the development team and with stakeholders.
 - **Continuous Improvement**: Describe how Agile teams reflect on their performance at the end of each sprint and improve their processes.
 
 ### (b) Benefits and Challenges of Agile vs Waterfall (500 words)
@@ -31,7 +31,7 @@ In this section, you should compare and contrast Agile methods with the Waterfal
   - Rigid structure, which can be difficult to change once in motion
   - Delayed customer feedback (since testing is done later)
   - Higher risk of project failure if initial planning isn’t thorough
-- **Comparison of Agile and Waterfall**: Conclude by summarizing where each methodology excels or struggles and in what contexts one might be preferable over the other.
+- **Comparison of Agile and Waterfall**: Conclude by summarising where each methodology excels or struggles and in what contexts one might be preferable over the other.
 
 ---
 
@@ -44,7 +44,7 @@ In this section, you should compare and contrast Agile methods with the Waterfal
    - Example User Story: “As a gym member, I want to be able to register for a new membership, so I can access gym services.”
 
 2. **Product Backlog**:
-   - Prioritize user stories and create a product backlog. List the features in the order they will be developed, keeping in mind business needs.
+   - Prioritise user stories and create a product backlog. List the features in the order they will be developed, keeping in mind business needs.
 
 3. **Sprints and Sprint Planning**:
    - Divide the project into manageable sprints (e.g., 1-2 weeks long). Each sprint should have a goal related to completing specific user stories.
@@ -58,9 +58,9 @@ In this section, you should compare and contrast Agile methods with the Waterfal
    - Estimate the time or effort required for each task using estimation techniques such as story points or hours.
 
 5. **Tools and Techniques**:
-   - Use Kanban boards to visualize tasks and their progress.
+   - Use Kanban boards to visualise tasks and their progress.
    - Consider using Sprint Burndown charts to track progress.
-   - Utilize tools like Jira, Trello, or Asana for project management.
+   - Utilise tools like Jira, Trello, or Asana for project management.
 
 ### (b) Implementing Software with Sprint Progress (20%)
 
@@ -71,7 +71,7 @@ In this section, you should compare and contrast Agile methods with the Waterfal
 
 2. **Backlog Updates**:
    - As user stories are completed, update the backlog by moving tasks to the "Done" column.
-   - Prioritize new or remaining user stories based on customer or business needs.
+   - Prioritise new or remaining user stories based on customer or business needs.
 
 3. **Deliverables**:
    - Provide screenshots or code snippets showing the progress at the end of each sprint.

@@ -490,7 +490,7 @@ class Database_Handler:
 
 # Example usage:
 if __name__ == "__main__":
-    # Initialize database handler
+    # Initialise database handler
     db_handler = Database_Handler()
 
     # Insert a test subscription (Basic Plan)
